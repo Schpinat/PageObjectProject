@@ -1,0 +1,1 @@
+{"uuid":"c72b74a1-9154-4a85-b421-dade0390aae4","name":"Gradle suite","children":["7b8dc5d7-3dfb-47b7-9c20-5e051d00680c"],"befores":[{"name":"setUpChromeDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1661683266064,"stop":1661683266750}],"afters":[],"links":[],"start":1661683265936,"stop":1661683282407}
